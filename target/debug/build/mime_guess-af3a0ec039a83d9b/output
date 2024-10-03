@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/Users/user/Desktop/rust_50/Rust-mongodb/target/debug/build/mime_guess-af3a0ec039a83d9b/out/mime_types_generated.rs
